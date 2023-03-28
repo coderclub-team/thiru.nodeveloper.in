@@ -11,6 +11,6 @@ jobs:
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
-          server: thiru.nodeveloper.in
+          server: nodeveloper.in
           username: thiru@thiru.nodeveloper.in
           password: Thiru@123$
