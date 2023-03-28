@@ -13,4 +13,4 @@ jobs:
         with:
           server: nodeveloper.in
           username: thiru.nodeveloper.in
-          password: ${{ secrets.FTP_PASSWORD }}
+          password: Thiru@123
