@@ -17,6 +17,6 @@ jobs:
         with:
           server: nodeveloper.in
           username: thiru@thiru.nodeveloper.in
-          password: Thiru@123$
+          password: Coderclub@123$
           port: 21
           server-dir: /mark/
