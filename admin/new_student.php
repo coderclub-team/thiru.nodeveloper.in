@@ -151,7 +151,7 @@
 			})
 			.then(response => response.json())
 			.then(result => {
-				console.log("Success:", result);
+				console.log("Data successfully saved.", result);
 				alert_toast("Data successfully saved.", "success");
 				setTimeout(function() {
 					location.replace('index.php?page=student_list')
