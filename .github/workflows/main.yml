@@ -12,5 +12,5 @@ jobs:
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
           server: thiru.nodeveloper.in
-          username: thiru@thiru.nodeveloper.in
+          username: thiru
           password: Thiru@123$
